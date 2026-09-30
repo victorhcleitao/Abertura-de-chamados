@@ -1,0 +1,12 @@
+CRES = [   ['1', '01ª Coordenadoria Regional De Educação'],
+    ['2', '02ª Coordenadoria Regional De Educação'],
+    ['3', '03ª Coordenadoria Regional De Educação'],
+    ['4', '04ª Coordenadoria Regional De Educação'],
+    ['5', '05ª Coordenadoria Regional De Educação'],
+    ['6', '06ª Coordenadoria Regional De Educação'],
+    ['7', '07ª Coordenadoria Regional De Educação'],
+    ['8', '08ª Coordenadoria Regional De Educação'],
+    ['9', '09ª Coordenadoria Regional De Educação'],
+    ['10', '10ª Coordenadoria Regional De Educação'],
+    ['11', '11ª Coordenadoria Regional De Educação'],
+    ['12', 'NC - Nível Central']]
